@@ -1,1 +1,1 @@
-![trampe](./trampe.png)
+![trampe](trampe.png)
